@@ -1,0 +1,15 @@
+D:\c#\UnityPortfolio\BoxingAndUnBoxing\Indexer\bin\Debug\net6.0\Indexer.exe
+D:\c#\UnityPortfolio\BoxingAndUnBoxing\Indexer\bin\Debug\net6.0\Indexer.deps.json
+D:\c#\UnityPortfolio\BoxingAndUnBoxing\Indexer\bin\Debug\net6.0\Indexer.runtimeconfig.json
+D:\c#\UnityPortfolio\BoxingAndUnBoxing\Indexer\bin\Debug\net6.0\Indexer.dll
+D:\c#\UnityPortfolio\BoxingAndUnBoxing\Indexer\bin\Debug\net6.0\Indexer.pdb
+D:\c#\UnityPortfolio\BoxingAndUnBoxing\Indexer\obj\Debug\net6.0\Indexer.csproj.AssemblyReference.cache
+D:\c#\UnityPortfolio\BoxingAndUnBoxing\Indexer\obj\Debug\net6.0\Indexer.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\UnityPortfolio\BoxingAndUnBoxing\Indexer\obj\Debug\net6.0\Indexer.AssemblyInfoInputs.cache
+D:\c#\UnityPortfolio\BoxingAndUnBoxing\Indexer\obj\Debug\net6.0\Indexer.AssemblyInfo.cs
+D:\c#\UnityPortfolio\BoxingAndUnBoxing\Indexer\obj\Debug\net6.0\Indexer.csproj.CoreCompileInputs.cache
+D:\c#\UnityPortfolio\BoxingAndUnBoxing\Indexer\obj\Debug\net6.0\Indexer.dll
+D:\c#\UnityPortfolio\BoxingAndUnBoxing\Indexer\obj\Debug\net6.0\refint\Indexer.dll
+D:\c#\UnityPortfolio\BoxingAndUnBoxing\Indexer\obj\Debug\net6.0\Indexer.pdb
+D:\c#\UnityPortfolio\BoxingAndUnBoxing\Indexer\obj\Debug\net6.0\Indexer.genruntimeconfig.cache
+D:\c#\UnityPortfolio\BoxingAndUnBoxing\Indexer\obj\Debug\net6.0\ref\Indexer.dll

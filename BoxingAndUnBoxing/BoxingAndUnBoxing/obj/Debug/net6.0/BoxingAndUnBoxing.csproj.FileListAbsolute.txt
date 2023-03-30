@@ -1,0 +1,15 @@
+D:\c#\UnityPortfolio\BoxingAndUnBoxing\BoxingAndUnBoxing\bin\Debug\net6.0\BoxingAndUnBoxing.exe
+D:\c#\UnityPortfolio\BoxingAndUnBoxing\BoxingAndUnBoxing\bin\Debug\net6.0\BoxingAndUnBoxing.deps.json
+D:\c#\UnityPortfolio\BoxingAndUnBoxing\BoxingAndUnBoxing\bin\Debug\net6.0\BoxingAndUnBoxing.runtimeconfig.json
+D:\c#\UnityPortfolio\BoxingAndUnBoxing\BoxingAndUnBoxing\bin\Debug\net6.0\BoxingAndUnBoxing.dll
+D:\c#\UnityPortfolio\BoxingAndUnBoxing\BoxingAndUnBoxing\bin\Debug\net6.0\BoxingAndUnBoxing.pdb
+D:\c#\UnityPortfolio\BoxingAndUnBoxing\BoxingAndUnBoxing\obj\Debug\net6.0\BoxingAndUnBoxing.csproj.AssemblyReference.cache
+D:\c#\UnityPortfolio\BoxingAndUnBoxing\BoxingAndUnBoxing\obj\Debug\net6.0\BoxingAndUnBoxing.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\UnityPortfolio\BoxingAndUnBoxing\BoxingAndUnBoxing\obj\Debug\net6.0\BoxingAndUnBoxing.AssemblyInfoInputs.cache
+D:\c#\UnityPortfolio\BoxingAndUnBoxing\BoxingAndUnBoxing\obj\Debug\net6.0\BoxingAndUnBoxing.AssemblyInfo.cs
+D:\c#\UnityPortfolio\BoxingAndUnBoxing\BoxingAndUnBoxing\obj\Debug\net6.0\BoxingAndUnBoxing.csproj.CoreCompileInputs.cache
+D:\c#\UnityPortfolio\BoxingAndUnBoxing\BoxingAndUnBoxing\obj\Debug\net6.0\BoxingAndUnBoxing.dll
+D:\c#\UnityPortfolio\BoxingAndUnBoxing\BoxingAndUnBoxing\obj\Debug\net6.0\refint\BoxingAndUnBoxing.dll
+D:\c#\UnityPortfolio\BoxingAndUnBoxing\BoxingAndUnBoxing\obj\Debug\net6.0\BoxingAndUnBoxing.pdb
+D:\c#\UnityPortfolio\BoxingAndUnBoxing\BoxingAndUnBoxing\obj\Debug\net6.0\BoxingAndUnBoxing.genruntimeconfig.cache
+D:\c#\UnityPortfolio\BoxingAndUnBoxing\BoxingAndUnBoxing\obj\Debug\net6.0\ref\BoxingAndUnBoxing.dll

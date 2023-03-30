@@ -1,0 +1,15 @@
+D:\c#\UnityPortfolio\BoxingAndUnBoxing\Anonymous\bin\Debug\net6.0\Anonymous.exe
+D:\c#\UnityPortfolio\BoxingAndUnBoxing\Anonymous\bin\Debug\net6.0\Anonymous.deps.json
+D:\c#\UnityPortfolio\BoxingAndUnBoxing\Anonymous\bin\Debug\net6.0\Anonymous.runtimeconfig.json
+D:\c#\UnityPortfolio\BoxingAndUnBoxing\Anonymous\bin\Debug\net6.0\Anonymous.dll
+D:\c#\UnityPortfolio\BoxingAndUnBoxing\Anonymous\bin\Debug\net6.0\Anonymous.pdb
+D:\c#\UnityPortfolio\BoxingAndUnBoxing\Anonymous\obj\Debug\net6.0\Anonymous.csproj.AssemblyReference.cache
+D:\c#\UnityPortfolio\BoxingAndUnBoxing\Anonymous\obj\Debug\net6.0\Anonymous.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\UnityPortfolio\BoxingAndUnBoxing\Anonymous\obj\Debug\net6.0\Anonymous.AssemblyInfoInputs.cache
+D:\c#\UnityPortfolio\BoxingAndUnBoxing\Anonymous\obj\Debug\net6.0\Anonymous.AssemblyInfo.cs
+D:\c#\UnityPortfolio\BoxingAndUnBoxing\Anonymous\obj\Debug\net6.0\Anonymous.csproj.CoreCompileInputs.cache
+D:\c#\UnityPortfolio\BoxingAndUnBoxing\Anonymous\obj\Debug\net6.0\Anonymous.dll
+D:\c#\UnityPortfolio\BoxingAndUnBoxing\Anonymous\obj\Debug\net6.0\refint\Anonymous.dll
+D:\c#\UnityPortfolio\BoxingAndUnBoxing\Anonymous\obj\Debug\net6.0\Anonymous.pdb
+D:\c#\UnityPortfolio\BoxingAndUnBoxing\Anonymous\obj\Debug\net6.0\Anonymous.genruntimeconfig.cache
+D:\c#\UnityPortfolio\BoxingAndUnBoxing\Anonymous\obj\Debug\net6.0\ref\Anonymous.dll

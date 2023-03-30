@@ -1,0 +1,15 @@
+D:\c#\UnityPortfolio\BoxingAndUnBoxing\Parameter\bin\Debug\net6.0\Parameter.exe
+D:\c#\UnityPortfolio\BoxingAndUnBoxing\Parameter\bin\Debug\net6.0\Parameter.deps.json
+D:\c#\UnityPortfolio\BoxingAndUnBoxing\Parameter\bin\Debug\net6.0\Parameter.runtimeconfig.json
+D:\c#\UnityPortfolio\BoxingAndUnBoxing\Parameter\bin\Debug\net6.0\Parameter.dll
+D:\c#\UnityPortfolio\BoxingAndUnBoxing\Parameter\bin\Debug\net6.0\Parameter.pdb
+D:\c#\UnityPortfolio\BoxingAndUnBoxing\Parameter\obj\Debug\net6.0\Parameter.csproj.AssemblyReference.cache
+D:\c#\UnityPortfolio\BoxingAndUnBoxing\Parameter\obj\Debug\net6.0\Parameter.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\UnityPortfolio\BoxingAndUnBoxing\Parameter\obj\Debug\net6.0\Parameter.AssemblyInfoInputs.cache
+D:\c#\UnityPortfolio\BoxingAndUnBoxing\Parameter\obj\Debug\net6.0\Parameter.AssemblyInfo.cs
+D:\c#\UnityPortfolio\BoxingAndUnBoxing\Parameter\obj\Debug\net6.0\Parameter.csproj.CoreCompileInputs.cache
+D:\c#\UnityPortfolio\BoxingAndUnBoxing\Parameter\obj\Debug\net6.0\Parameter.dll
+D:\c#\UnityPortfolio\BoxingAndUnBoxing\Parameter\obj\Debug\net6.0\refint\Parameter.dll
+D:\c#\UnityPortfolio\BoxingAndUnBoxing\Parameter\obj\Debug\net6.0\Parameter.pdb
+D:\c#\UnityPortfolio\BoxingAndUnBoxing\Parameter\obj\Debug\net6.0\Parameter.genruntimeconfig.cache
+D:\c#\UnityPortfolio\BoxingAndUnBoxing\Parameter\obj\Debug\net6.0\ref\Parameter.dll

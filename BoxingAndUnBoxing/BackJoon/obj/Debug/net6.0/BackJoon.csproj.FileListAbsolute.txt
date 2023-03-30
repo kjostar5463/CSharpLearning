@@ -1,0 +1,15 @@
+D:\c#\UnityPortfolio\BoxingAndUnBoxing\BackJoon\bin\Debug\net6.0\BackJoon.exe
+D:\c#\UnityPortfolio\BoxingAndUnBoxing\BackJoon\bin\Debug\net6.0\BackJoon.deps.json
+D:\c#\UnityPortfolio\BoxingAndUnBoxing\BackJoon\bin\Debug\net6.0\BackJoon.runtimeconfig.json
+D:\c#\UnityPortfolio\BoxingAndUnBoxing\BackJoon\bin\Debug\net6.0\BackJoon.dll
+D:\c#\UnityPortfolio\BoxingAndUnBoxing\BackJoon\bin\Debug\net6.0\BackJoon.pdb
+D:\c#\UnityPortfolio\BoxingAndUnBoxing\BackJoon\obj\Debug\net6.0\BackJoon.csproj.AssemblyReference.cache
+D:\c#\UnityPortfolio\BoxingAndUnBoxing\BackJoon\obj\Debug\net6.0\BackJoon.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\UnityPortfolio\BoxingAndUnBoxing\BackJoon\obj\Debug\net6.0\BackJoon.AssemblyInfoInputs.cache
+D:\c#\UnityPortfolio\BoxingAndUnBoxing\BackJoon\obj\Debug\net6.0\BackJoon.AssemblyInfo.cs
+D:\c#\UnityPortfolio\BoxingAndUnBoxing\BackJoon\obj\Debug\net6.0\BackJoon.csproj.CoreCompileInputs.cache
+D:\c#\UnityPortfolio\BoxingAndUnBoxing\BackJoon\obj\Debug\net6.0\BackJoon.dll
+D:\c#\UnityPortfolio\BoxingAndUnBoxing\BackJoon\obj\Debug\net6.0\refint\BackJoon.dll
+D:\c#\UnityPortfolio\BoxingAndUnBoxing\BackJoon\obj\Debug\net6.0\BackJoon.pdb
+D:\c#\UnityPortfolio\BoxingAndUnBoxing\BackJoon\obj\Debug\net6.0\BackJoon.genruntimeconfig.cache
+D:\c#\UnityPortfolio\BoxingAndUnBoxing\BackJoon\obj\Debug\net6.0\ref\BackJoon.dll
