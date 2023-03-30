@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\Documents\\GitHub\\UnityPortfolio\\BoxingAndUnBoxing\\BoxingAndUnBoxing\\BoxingAndUnBoxing.csproj": {}
+    "C:\\Users\\user\\Documents\\GitHub\\CSharpLearning\\BoxingAndUnBoxing\\BoxingAndUnBoxing\\BoxingAndUnBoxing.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\Documents\\GitHub\\UnityPortfolio\\BoxingAndUnBoxing\\BoxingAndUnBoxing\\BoxingAndUnBoxing.csproj": {
+    "C:\\Users\\user\\Documents\\GitHub\\CSharpLearning\\BoxingAndUnBoxing\\BoxingAndUnBoxing\\BoxingAndUnBoxing.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Documents\\GitHub\\UnityPortfolio\\BoxingAndUnBoxing\\BoxingAndUnBoxing\\BoxingAndUnBoxing.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Documents\\GitHub\\CSharpLearning\\BoxingAndUnBoxing\\BoxingAndUnBoxing\\BoxingAndUnBoxing.csproj",
         "projectName": "BoxingAndUnBoxing",
-        "projectPath": "C:\\Users\\user\\Documents\\GitHub\\UnityPortfolio\\BoxingAndUnBoxing\\BoxingAndUnBoxing\\BoxingAndUnBoxing.csproj",
+        "projectPath": "C:\\Users\\user\\Documents\\GitHub\\CSharpLearning\\BoxingAndUnBoxing\\BoxingAndUnBoxing\\BoxingAndUnBoxing.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Documents\\GitHub\\UnityPortfolio\\BoxingAndUnBoxing\\BoxingAndUnBoxing\\obj\\",
+        "outputPath": "C:\\Users\\user\\Documents\\GitHub\\CSharpLearning\\BoxingAndUnBoxing\\BoxingAndUnBoxing\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

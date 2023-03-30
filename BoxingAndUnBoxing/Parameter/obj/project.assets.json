@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\Documents\\GitHub\\UnityPortfolio\\BoxingAndUnBoxing\\Parameter\\Parameter.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Documents\\GitHub\\CSharpLearning\\BoxingAndUnBoxing\\Parameter\\Parameter.csproj",
       "projectName": "Parameter",
-      "projectPath": "C:\\Users\\user\\Documents\\GitHub\\UnityPortfolio\\BoxingAndUnBoxing\\Parameter\\Parameter.csproj",
+      "projectPath": "C:\\Users\\user\\Documents\\GitHub\\CSharpLearning\\BoxingAndUnBoxing\\Parameter\\Parameter.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\Documents\\GitHub\\UnityPortfolio\\BoxingAndUnBoxing\\Parameter\\obj\\",
+      "outputPath": "C:\\Users\\user\\Documents\\GitHub\\CSharpLearning\\BoxingAndUnBoxing\\Parameter\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
