@@ -1,0 +1,15 @@
+C:\Users\user\Documents\GitHub\CSharpLearning\BoxingAndUnBoxing\partial\bin\Debug\net6.0\partial.exe
+C:\Users\user\Documents\GitHub\CSharpLearning\BoxingAndUnBoxing\partial\bin\Debug\net6.0\partial.deps.json
+C:\Users\user\Documents\GitHub\CSharpLearning\BoxingAndUnBoxing\partial\bin\Debug\net6.0\partial.runtimeconfig.json
+C:\Users\user\Documents\GitHub\CSharpLearning\BoxingAndUnBoxing\partial\bin\Debug\net6.0\partial.dll
+C:\Users\user\Documents\GitHub\CSharpLearning\BoxingAndUnBoxing\partial\bin\Debug\net6.0\partial.pdb
+C:\Users\user\Documents\GitHub\CSharpLearning\BoxingAndUnBoxing\partial\obj\Debug\net6.0\partial.csproj.AssemblyReference.cache
+C:\Users\user\Documents\GitHub\CSharpLearning\BoxingAndUnBoxing\partial\obj\Debug\net6.0\partial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\GitHub\CSharpLearning\BoxingAndUnBoxing\partial\obj\Debug\net6.0\partial.AssemblyInfoInputs.cache
+C:\Users\user\Documents\GitHub\CSharpLearning\BoxingAndUnBoxing\partial\obj\Debug\net6.0\partial.AssemblyInfo.cs
+C:\Users\user\Documents\GitHub\CSharpLearning\BoxingAndUnBoxing\partial\obj\Debug\net6.0\partial.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\CSharpLearning\BoxingAndUnBoxing\partial\obj\Debug\net6.0\partial.dll
+C:\Users\user\Documents\GitHub\CSharpLearning\BoxingAndUnBoxing\partial\obj\Debug\net6.0\refint\partial.dll
+C:\Users\user\Documents\GitHub\CSharpLearning\BoxingAndUnBoxing\partial\obj\Debug\net6.0\partial.pdb
+C:\Users\user\Documents\GitHub\CSharpLearning\BoxingAndUnBoxing\partial\obj\Debug\net6.0\partial.genruntimeconfig.cache
+C:\Users\user\Documents\GitHub\CSharpLearning\BoxingAndUnBoxing\partial\obj\Debug\net6.0\ref\partial.dll

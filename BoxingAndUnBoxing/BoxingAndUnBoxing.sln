@@ -29,7 +29,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Collection", "Collection\Co
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HashTable", "HashTable\HashTable.csproj", "{205134BB-3B15-4D7E-AE79-EB68146F0BE8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringBuilder", "StringBuilder\StringBuilder.csproj", "{6A67B7B8-5A4D-4A8E-9790-DEFFDF5C5630}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StringBuilder", "StringBuilder\StringBuilder.csproj", "{6A67B7B8-5A4D-4A8E-9790-DEFFDF5C5630}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "partial", "partial\partial.csproj", "{C85A797A-F878-4B48-ABB3-AADB6ADDDDB3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -93,6 +95,10 @@ Global
 		{6A67B7B8-5A4D-4A8E-9790-DEFFDF5C5630}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6A67B7B8-5A4D-4A8E-9790-DEFFDF5C5630}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6A67B7B8-5A4D-4A8E-9790-DEFFDF5C5630}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C85A797A-F878-4B48-ABB3-AADB6ADDDDB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C85A797A-F878-4B48-ABB3-AADB6ADDDDB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C85A797A-F878-4B48-ABB3-AADB6ADDDDB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C85A797A-F878-4B48-ABB3-AADB6ADDDDB3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
